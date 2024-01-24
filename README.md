@@ -1,3 +1,5 @@
+Explinatiomn of the experiment: https://medium.com/@shanlogauthier/unity-optimization-draw-calls-and-sprite-atlases-ae8af5c35e00
+
 ## Pixel 6A performance test:
 
 ### Profiler
